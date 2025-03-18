@@ -5,8 +5,10 @@ import static org.testng.Assert.assertEquals;
 import java.io.Console;
 import java.time.Duration;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -27,6 +29,8 @@ public class TC001_AccountRegistrationTest extends TestBaseClass {
 		try {
 		//Go to home page and click on My account -> Register
 		HomePage homePage = new HomePage(driver);
+		Actions actions = new Actions(driver);
+
 		homePage.clickMyAccount();
 		logger.info("Clicked on my account link");
 		System.out.println("Clicked on my account link");
@@ -44,15 +48,21 @@ public class TC001_AccountRegistrationTest extends TestBaseClass {
 		accountRegisterPage.setPassword(getRandomString(5)+"@"+getRandomNumber(5));
 		accountRegisterPage.setEmail(getRandomAlphanumeric(8)+"@mailinator.com");
 		
+		
+		//actions.scrollByAmount(20, 20).build().perform();
+		//actions.keyDown(Keys.CONTROL).sendKeys(Keys.END).perform();
+		actions.sendKeys(Keys.PAGE_DOWN).build().perform(); Thread.sleep(2000);
+		
 		//Account registration page - check privacy check box and submit.
 		logger.info("Selecting the privacy policy checkbox");
 		System.out.println("Selecting the privacy policy checkbox");
-		Thread.sleep(2000);
+		//Thread.sleep(2000);
+		
 		accountRegisterPage.checkPrivacyPolicy();
 		
 		logger.info("Clicking on continue button to submit the account registrationb form.");
 		System.out.println("Clicking on continue button to submit the account registration form.");
-		Thread.sleep(2000);
+		//Thread.sleep(2000);
 		accountRegisterPage.clickContinue();
 		
 		//Assertions

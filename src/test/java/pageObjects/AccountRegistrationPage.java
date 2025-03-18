@@ -53,6 +53,10 @@ public class AccountRegistrationPage extends BasePage{
 		chkBoxPolicy.click();
 	}
 	
+	//btnContinue is being used as a reference to scroll, actions.scrollToElement(btnContinue) 
+	public WebElement getContinueButton() {
+		return btnContinue;
+	}
 	public void clickContinue() {
 		btnContinue.click();
 	}
