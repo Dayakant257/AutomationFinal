@@ -29,7 +29,7 @@ public class HomePage extends BasePage{
 		linkRegister.click();
 	}
 	
-	public void clickLoginA() {
+	public void clickLogin() {
 		linkLogin.click();
 	}
 	

@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="TestSuite_001" thread-count="5" parallel="tests">
+<suite name="TestSuite_001" thread-count="5"  parallel="tests">
+
+
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
 
 	<test name="TestCase_001">
-		<parameter name="os" value="Windows"/>
-		<parameter name="browser" value="chrome"/>
+		<parameter name="os" value="Windows" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
 	</test> <!-- TestCase_001 -->
-	
+ 
 	<test name="TestCase_002">
-		<parameter name="os" value="Windows"/>
-		<parameter name="browser" value="Edge"/>
+		<parameter name="os" value="Windows" />
+		<parameter name="browser" value="Edge" />
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
 	</test> <!-- TestCase_002 -->
-	
+
 	<test name="TestCase_003">
-		<parameter name="os" value="Windows"/>
-		<parameter name="browser" value="firefox"/>
+		<parameter name="os" value="Windows" />
+		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
 	</test> <!-- TestCase_003 -->
-	
-	
+
 </suite> <!-- TestSuite_001 -->
