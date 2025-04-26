@@ -13,6 +13,15 @@ public class MyAccountPage extends BasePage{
 	@FindBy(xpath = "//h1[normalize-space()='My Account']")
 	WebElement myAccHeading;
 	
+	@FindBy(xpath = "//span[normalize-space()='My Account']")
+	WebElement lnkMyAccount;
+	
+	
+	//add logout element
+	@FindBy(xpath = "//a[@class='dropdown-item'][normalize-space()='Logout']")   
+	WebElement lnkLogout;
+	
+	
 	public boolean myAccHeadingExists() {
 		try {
 		return myAccHeading.isDisplayed();
@@ -21,6 +30,12 @@ public class MyAccountPage extends BasePage{
 			e.printStackTrace();
 			return false;
 		}
+	}
+	
+	//add action method for logout
+	public void clickLogout() {
+		lnkMyAccount.click();
+		lnkLogout.click();
 	}
 
 }

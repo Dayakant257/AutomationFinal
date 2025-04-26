@@ -1,8 +1,239 @@
-2025-04-07 13:31:07 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\git\repository\OpencartV121\loginTest.xml
+2025-04-24 00:09:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
 
-2025-04-07 13:31:24 INFO  TC_002_Login_Test:16 - ***** Starting TC_002_Login_Test *****
-2025-04-07 13:33:15 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\git\repository\OpencartV121\loginTest.xml
+2025-04-24 00:09:09 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:10 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:10 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:12 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:12 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:13 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:13 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:15 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:15 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:17 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:17 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:19 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:19 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:20 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:20 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:22 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:22 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:34 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:36 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:36 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:37 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:37 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:39 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:39 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:41 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:41 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:43 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:43 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:45 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:45 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:46 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:46 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:48 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:48 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:50 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:50 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:52 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:52 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:09:54 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:12:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
 
-2025-04-07 13:33:18 INFO  TC_002_Login_Test:16 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:01 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:03 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:03 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:05 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:05 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:06 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:06 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:08 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:08 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
+
+2025-04-24 00:13:48 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:50 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:50 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:51 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:51 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:52 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:52 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:54 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:13:54 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
+
+2025-04-24 00:19:55 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:57 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:57 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:58 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:58 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:59 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:19:59 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:10 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:12 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:12 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:14 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:14 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:16 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:16 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:18 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:18 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:29 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:30 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:30 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:32 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:32 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:34 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:34 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:36 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:36 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:37 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:37 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:39 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:39 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:41 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:41 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:42 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:42 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:44 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:44 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:46 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:46 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:48 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:48 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:50 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:50 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:52 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:52 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:54 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:54 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:56 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:56 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:58 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:58 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:59 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:20:59 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:01 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:01 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:03 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:03 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:05 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:05 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:07 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:07 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:09 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:09 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:11 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:11 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:12 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:12 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:14 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:14 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 00:21:16 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
+
+2025-04-24 17:23:44 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:46 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:46 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:48 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:48 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:49 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:23:49 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse--381179827\testng-customsuite.xml
+
+2025-04-24 17:25:25 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4bf3798b: 33 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5241cf67: 55 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4e76dac: 9 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ac86ba5: 10 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4204541c: 11 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69c79f09: 9 ms
+2025-04-24 17:25:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1ca25c47: 0 ms
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 17:25:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-1029725038\testng-customsuite.xml
+
+2025-04-24 17:25:39 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4bf3798b: 29 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5241cf67: 72 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4e76dac: 15 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ac86ba5: 12 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4204541c: 10 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69c79f09: 11 ms
+2025-04-24 17:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1ca25c47: 0 ms
+2025-04-24 17:25:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\git\repository\OpencartV121\master.xml
+
+2025-04-24 17:25:54 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:55 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:55 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:56 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:56 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:58 INFO  TC003_LoginDDT:68 - ***** Starting TC_002_Login_Test *****
+2025-04-24 17:25:58 INFO  TC003_LoginDDT:25 - ***** Starting TC_002_Login_Test *****
